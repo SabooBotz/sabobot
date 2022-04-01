@@ -3598,14 +3598,104 @@ bdt = fs.readFileSync('./badut.mp3')
 alpha.sendMessage(from, bdt, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
 break
 					
-					case 'kamusariv2':
-kamss = fs.readFileSync('./kamusariv2.mp3')
-alpha.sendMessage(from, kamss, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+					case 'sad':
+dssh = fs.readFileSync('./deshaa.mp3')
+alpha.sendMessage(from, dssh, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'susu':
+tengg = fs.readFileSync('./vn.mp3')
+alpha.sendMessage(from, tengg, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'brando':
+tenggk = fs.readFileSync('./vn1.mp3')
+alpha.sendMessage(from, tenggk, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'kamusari':
+tengks = fs.readFileSync('./kamusari.mp3')
+alpha.sendMessage(from, tengks, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'inugami':
+tengsk = fs.readFileSync('./inugami.mp3')
+alpha.sendMessage(from, tengsk, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'sus':
+suk = fs.readFileSync('./sus.mp3')
+alpha.sendMessage(from, suk, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'laguramah':
+tengyg = fs.readFileSync('./laguramah.mp3')
+alpha.sendMessage(from, tengyg, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'torenedaroyoi':
+tenggkyu = fs.readFileSync('./torene.mp3')
+alpha.sendMessage(from, tenggkyu, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'zehahaha':
+tenggygyk = fs.readFileSync('./zehahaha.mp3')
+alpha.sendMessage(from, tenggygyk, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'arara':
+treng = fs.readFileSync('./araara.mp3')
+alpha.sendMessage(from, treng, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'ararakuzan':
+kuzn = fs.readFileSync('./ararakuzan.mp3')
+alpha.sendMessage(from, kuzn, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'orewanaru':
+oreee = fs.readFileSync('./orewanaru.mp3')
+alpha.sendMessage(from, oreee, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'robinkawai':
+robn = fs.readFileSync('./robinkawai.mp3')
+alpha.sendMessage(from, robn, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'roomlaw':
+ruum = fs.readFileSync('./roomlaw.mp3')
+alpha.sendMessage(from, ruum, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
 break
 
 case 'konosenso':
 senss = fs.readFileSync('./konosenso.mp3')
 alpha.sendMessage(from, senss, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'kamusariv2':
+kamss = fs.readFileSync('./kamusariv2.mp3')
+alpha.sendMessage(from, kamss, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'yasakani':
+yassk = fs.readFileSync('./yasakani.mp3')
+alpha.sendMessage(from, yassk, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'hiken':
+hken = fs.readFileSync('./hiken.mp3')
+alpha.sendMessage(from, hken, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'hikenv2':
+hkenv = fs.readFileSync('./hikenv2.mp3')
+alpha.sendMessage(from, hkenv, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+
+case 'daisensekai':
+daissn = fs.readFileSync('./daisen.mp3')
+alpha.sendMessage(from, daissn, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
 break
 
 case 'laughdoffy':
@@ -3616,11 +3706,6 @@ break
 case 'ararawindah':
 winara = fs.readFileSync('./winrara.mp3')
 alpha.sendMessage(from, winara, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
-break
-
-case 'zehahaha':
-tenggygyk = fs.readFileSync('./zehahaha.mp3')
-alpha.sendMessage(from, tenggygyk, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
 break
 					
 			case 'term':
