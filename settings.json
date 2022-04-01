@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"msg_connected": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumberr": "6282145203493",
+	"ownername": "Sabo",
+	"botname":"Sabo Botz",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"captionpay":"Silahkan Donasi Ke Nomor Ini                                                                Gopay : 0856-9230-5785                        Dana : 0821-4520-3493                      (Note : Harap Hubungi Owner Terlebih Dahulu Sebelum Melakukan Pembayaran) Terima Kasih Sudah Mau Berdonasi. Jika Ingin Menyewa Bot Silahkan Ketik .sewabot",
+	"fake": " 「 SABO BOTZ 」\nCreated By Sabo"
+}
