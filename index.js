@@ -3588,6 +3588,11 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
             await limitAdd(sender, limit)
 					break     
 					
+					case 'duka':
+dka = fs.readFileSync('./duka.mp3')
+alpha.sendMessage(from, dka, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
+break
+					
 					case 'dandelions':
 ddl = fs.readFileSync('./dandelions.mp3')
 alpha.sendMessage(from, ddl, audio, { quoted : mek, mimetype: 'audio/mp4', ptt:true })
