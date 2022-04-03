@@ -1271,16 +1271,16 @@ if (autobio === false) return
       settingstatus = new Date() * 1;
     }}
 		mess = {
-			wait: '```[ ! ] Proses kak...```',
-			success: '```[ ✓ ]``` Success',
+			wait: '```[ ! ] Sedang Di Proses Mohon Tunggu Sebentar```',
+			success: '```[ ✓ ]``` Berhasil!',
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
 				stick: 'Itu bukan stiker',
 				Iv: 'Linknya error:v'
 			},
 			only: {
-				group: 'Only Group',
-				admin: 'Only Group Admin',
+				group: 'Fitur Ini Hanya Bisa Digunakan Di Group!',
+				admin: 'Fitur Ini hanya Bisa Dilakukan Oleh Admin!',
 			}
 		}
 		const isUrl = (url) => {
