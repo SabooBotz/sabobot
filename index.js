@@ -158,9 +158,9 @@ pp_bot2 = fs.readFileSync(`image/${setting.thumbnail}`)
 hit_today = []
 blocked = []
 ban = []
-limitawal = "50"
-gcounttprem = "50" 
-gcounttuser = "25" 
+limitawal = "20"
+gcounttprem = "9999999" 
+gcounttuser = "30" 
 
 let multi = true
 let nopref = false
