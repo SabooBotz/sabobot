@@ -12,15 +12,12 @@ return `「 *PRICE LIST* 」
 ⬡ PERMANEN = Rp 5.000
 
 
-NOTE : FITUR PREMIUM ERROR!
-
-
 ⬣ MINAT? PM
 ⬡ wa.me/6282145203493
 
 
 NOTE : 
-Bot On 24 Jam Jika Tidak Eror `
+Fitur Premium Error! Bot On 24 Jam Jika Tidak Eror `
 	}
 
 exports.pc_sewa = pc_sewa

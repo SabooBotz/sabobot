@@ -27,8 +27,6 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 Group Owner : https://chat.whatsapp.com/HKNdgk6CV1i06b9ArQ8EjP
-Group Have Fun : https://chat.whatsapp.com/IsA1bmwV3zH5Lkqg1yZDiL (Jika Ke Reset Hubungi Owner)
-Tiktok : PC OWNER!
 `}
 
 exports.infobot = infobot
